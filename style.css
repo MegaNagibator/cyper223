@@ -65,3 +65,8 @@ main {
 .Miri:hover {
     opacity: 0.5;
 }
+.paragr1 {
+    font-size: 25px;
+    width: 500px;
+    margin: 5px 0px 10px 100px;
+}
