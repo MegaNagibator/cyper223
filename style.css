@@ -31,6 +31,8 @@ main {
     width: 800px;
     text-align: center;
     float: center;
+    position: relative;
+    left: 300px;
 }
 .img1 {
     width: 800px;
