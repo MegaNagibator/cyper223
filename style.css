@@ -37,15 +37,15 @@ main {
 }
 .img2 {
     position: absolute;
-    width: 500px;
+    width: 800px;
     height: 350px;
     top: 460px;
     left: 720px;
 }
 .img3 {
     position: absolute;
-    width: 500px;
+    width: 800px;
     height: 335px;
-    top: 850px;
+    top: 825px;
     left: 720px;
 }
