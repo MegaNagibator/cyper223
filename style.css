@@ -56,3 +56,12 @@ main {
     text-align: center;
     font-size: 40px;
 }
+.Miri::before {
+    content: "❗"
+}
+.Miri::after {
+    content: "❗"
+}
+.Miri:hover {
+    opacity: 0.5;
+}
