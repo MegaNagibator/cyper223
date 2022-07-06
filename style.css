@@ -31,7 +31,7 @@ main {
     text-align: center;
     float: center;
     position: relative;
-    left: 435px;
+    left: 430px;
 }
 .img1 {
     width: 700px;
@@ -39,14 +39,14 @@ main {
 }
 .img2 {
     position: absolute;
-    width: 835px;
+    width: 840px;
     height: 350px;
     top: 545px;
     left: 720px;
 }
 .img3 {
     position: absolute;
-    width: 835px;
+    width: 840px;
     height: 335px;
     top: 910px;
     left: 720px;
