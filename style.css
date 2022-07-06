@@ -1,1 +1,37 @@
-
+h1 {
+    text-align: center;
+    color: rgb(255, 0, 0);
+    font-size: 50px;
+    opacity: 1;
+}
+.center2 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    opacity: 1;
+}
+.header {
+    height: 250px;
+    background-image: url(https://cdn.shazoo.ru/c576x256/532906_nM3qwlUtDU_caves.jpg);
+    opacity: 0.7;
+}
+header {
+    background-color: rgb(225, 228, 156);;
+}
+html {
+    background-color: rgb(225, 228, 156);
+}
+main {
+    background-color: rgb(225, 228, 156);
+}
+.main {
+    font-size: 25px;
+    margin: 0px;
+    width: 800px;
+    text-align: center;
+    float: center;
+}
+.img1 {
+    width: 600px;
+    height: 700px;
+}
