@@ -70,3 +70,11 @@ main {
     width: 600px;
     margin: 5px 0px 10px 100px;
 }
+.paragr2 {
+    font-size: 30px;
+    width: 825px;
+    margin: 5px 0px 10px 100px;
+    position: absolute;
+    top: 1250px;
+    left: 620px;
+}
