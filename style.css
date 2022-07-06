@@ -16,7 +16,8 @@ h1 {
     opacity: 0.7;
 }
 header {
-    background-color: rgb(225, 228, 156);;
+    background-color: rgb(225, 228, 156);
+    margin: 0;
 }
 html {
     background-color: rgb(225, 228, 156);
@@ -37,14 +38,14 @@ main {
 }
 .img2 {
     position: absolute;
-    width: 780px;
+    width: 765px;
     height: 400px;
     top: 460px;
     left: 820px;
 }
 .img3 {
     position: absolute;
-    width: 780px;
+    width: 765px;
     height: 385;
     top: 870px;
     left: 820px;
