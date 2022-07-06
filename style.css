@@ -16,8 +16,7 @@ h1 {
     opacity: 0.7;
 }
 header {
-    background-color: rgb(225, 228, 156);
-    margin: 0;
+    background-color: rgb(225, 228, 156);;
 }
 html {
     background-color: rgb(225, 228, 156);
@@ -27,28 +26,33 @@ main {
 }
 .main {
     font-size: 25px;
-    margin: 0px;
+    margin: 10px 0px 30px 0px;
     width: 800px;
     text-align: center;
     float: center;
     position: relative;
-    left: 400px;
+    left: 300px;
 }
 .img1 {
-    width: 800px;
-    height: 800px;
+    width: 700px;
+    height: 700px;
 }
 .img2 {
     position: absolute;
-    width: 765px;
-    height: 400px;
-    top: 460px;
-    left: 820px;
+    width: 500px;
+    height: 350px;
+    top: 570px;
+    left: 720px;
 }
 .img3 {
     position: absolute;
-    width: 765px;
-    height: 385;
-    top: 870px;
-    left: 820px;
+    width: 500px;
+    height: 335px;
+    top: 935px;
+    left: 720px;
+}
+.Miri {
+    margin: 0;
+    text-align: center;
+    font-size: 40px;
 }
