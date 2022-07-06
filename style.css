@@ -32,6 +32,20 @@ main {
     float: center;
 }
 .img1 {
-    width: 600px;
+    width: 700px;
     height: 700px;
+}
+.img2 {
+    position: absolute;
+    width: 500px;
+    height: 350px;
+    top: 485px;
+    left: 720px;
+}
+.img3 {
+    position: absolute;
+    width: 500px;
+    height: 335px;
+    top: 850px;
+    left: 720px;
 }
