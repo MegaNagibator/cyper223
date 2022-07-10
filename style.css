@@ -78,3 +78,11 @@ main {
     top: 1355px;
     left: 620px;
 }
+footer {
+    background-color: rgb(255, 255, 255);
+}
+.foot {
+    color: black;
+    margin: 120px;
+    font-size: 25px;
+}
