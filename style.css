@@ -83,7 +83,6 @@ footer {
 }
 .foot {
     color: black;
-    margin: 70px;
-    padding: 70px;
+    padding: 15px 90px 0px 90px;
     font-size: 25px;
 }
