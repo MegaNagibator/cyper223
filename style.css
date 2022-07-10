@@ -78,13 +78,3 @@ main {
     top: 1355px;
     left: 620px;
 }
-footer {
-    background-color: rgb(0, 0, 0);
-    position: fixed;
-}
-.foot {
-    color: white;
-    font-size: 25px;
-    margin: 50px;
-    padding: 40px;
-}
