@@ -79,14 +79,15 @@ main {
     left: 620px;
 }
 footer {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(225, 228, 156);
     height: 110px;
 }
 .foot {
     color: black;
-    padding: 100px 110px 0px 110px;
+    padding: 0px 110px 0px 110px;
     font-size: 30px;
     text-align: center;
+    border: 15px solid black;
 }
 .block2 {
     opacity: 0;
