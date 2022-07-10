@@ -84,7 +84,7 @@ footer {
 }
 .foot {
     color: black;
-    padding: 0px 117px 0px 117px;
+    padding: 0px 114px 0px 114px;
     font-size: 30px;
     text-align: center;
     border: 15px solid black;
@@ -109,4 +109,7 @@ footer {
 }
 .block2:hover {
     opacity: 1;
+}
+.foot:hover {
+    opacity: 0.7;
 }
