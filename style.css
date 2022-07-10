@@ -88,3 +88,17 @@ footer {
     font-size: 30px;
     text-align: center;
 }
+.block2 {
+    opacity: 0;
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    top: 400px;
+    left: 60px;
+}
+.block1:hover {
+    opacity: 0px;
+}
+.block2:hover {
+    opacity: 1;
+}
