@@ -35,19 +35,19 @@ main {
 }
 .img1 {
     width: 45%;
-    height: 91%;
+    height: 92%;
 }
 .img2 {
     position: absolute;
-    width: 70%;
-    height: 43%;
+    width: 60%;
+    height: 44%;
     top: 651px;
     left: 720px;
 }
 .img3 {
     position: absolute;
-    width: 70%;
-    height: 43%;
+    width: 60%;
+    height: 44%;
     top: 1016px;
     left: 720px;
 }
