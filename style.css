@@ -72,7 +72,7 @@ main {
     font-size: 30px;
     width: 825px;
     margin: 5px 0px 10px 100px;
-    float: left;
+    float: right;
     position: absolute;
 }
 footer {
