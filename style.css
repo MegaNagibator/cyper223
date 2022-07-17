@@ -73,6 +73,7 @@ main {
     width: 825px;
     margin: 5px 0px 10px 100px;
     float: left;
+    position: absolute;
 }
 footer {
     background-color: rgb(225, 228, 156);
