@@ -38,18 +38,14 @@ main {
     height: 92%;
 }
 .img2 {
-    position: absolute;
     width: 53%;
     height: 44%;
-    top: 651px;
-    left: 720px;
+    float: left;
 }
 .img3 {
-    position: absolute;
     width: 53%;
     height: 44%;
-    top: 1016px;
-    left: 720px;
+    float: left;
 }
 .Miri {
     margin: 0;
