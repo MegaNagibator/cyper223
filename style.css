@@ -46,6 +46,7 @@ main {
     width: 53%;
     height: 44%;
     float: right;
+    position: absolute;
 }
 .Miri {
     margin: 0;
