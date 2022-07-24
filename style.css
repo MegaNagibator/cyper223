@@ -23,6 +23,7 @@ html {
 }
 main {
     background-color: rgb(225, 228, 156);
+    max-width: 720px;
 }
 .main {
     font-size: 30px;
@@ -114,7 +115,4 @@ footer {
 }
 .foot:hover {
     opacity: 0.7;
-}
-body {
-    max-width: 1300px;
 }
