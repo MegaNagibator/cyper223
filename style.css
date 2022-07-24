@@ -36,13 +36,13 @@ main {
 .img1 {
     width: 45%;
     height: 92%;
-    max-width: 1920px;
+    max-width: 1800px;
 }
 .img2 {
     width: 53%;
     height: 44%;
     float: right;
-    max-width: 1920px; 
+    max-width: 1800px; 
 }
 .img3 {
     width: 51%;
@@ -50,7 +50,7 @@ main {
     float: right;
     position: absolute;
     margin: 350px 10px 20px 30px;
-    max-width: 1920px;
+    max-width: 1800px;
 }
 .Miri {
     margin: 0;
@@ -76,7 +76,8 @@ main {
     width: 825px;
     margin: 5px 0px 10px 100px;
     float: right;
-    position: relative;
+    position: absolute;
+    top: 1000px;
 }
 footer {
     background-color: rgb(225, 228, 156);
