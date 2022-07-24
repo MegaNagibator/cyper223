@@ -24,6 +24,7 @@ html {
 main {
     background-color: rgb(225, 228, 156);
     max-width: 720px;
+    text-align: center;
 }
 .main {
     font-size: 30px;
