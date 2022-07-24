@@ -40,19 +40,11 @@ main {
     height: 92%;
     max-width: 1000px;
 }
-.img2 {
+.img {
     width: 53%;
     height: 44%;
     float: right;
     max-width: 1000px; 
-}
-.img3 {
-    width: 51%;
-    height: 44%;
-    float: right;
-    position: absolute;
-    margin: 350px 10px 20px 30px;
-    max-width: 1000px;
 }
 .Miri {
     margin: 0;
