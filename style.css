@@ -36,11 +36,13 @@ main {
 .img1 {
     width: 45%;
     height: 92%;
+    max-width: 1920px;
 }
 .img2 {
     width: 53%;
     height: 44%;
     float: right;
+    max-width: 1920px; 
 }
 .img3 {
     width: 51%;
@@ -48,6 +50,7 @@ main {
     float: right;
     position: absolute;
     margin: 350px 10px 20px 30px;
+    max-width: 1920px;
 }
 .Miri {
     margin: 0;
